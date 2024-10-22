@@ -1,4 +1,7 @@
 ## Scaffold
+
+Ce composant fournit une API permettant d'assembler plusieurs composants matériels pour construire votre écran, en garantissant une stratégie de mise en page appropriée et en collectant les données nécessaires pour que ces composants fonctionnent correctement ensemble.
+
 ```
 @Composable
 fun Scaffold(
